@@ -4,6 +4,6 @@
 
 @section('content')
 <div class="text-center">
-    Welcome to the application
+  Welcome to the application
 </div>
 @endsection
